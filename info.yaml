@@ -1,7 +1,7 @@
 
 # Tiny Tapeout project information
 project:        "Tiny Tapeout"
-  title:        "GDS_FROM_VGA"      # Project title
+  title:        "tt_um_vga_Bryan"      # Project title
   author:       "Bryan Lopez"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "GDS from VGA"      # One line description of what your project does
